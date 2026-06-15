@@ -3,3 +3,11 @@ SONY
 LENOVO
 MAC
 Now i am in macherla
+F1
+<<<<<<< HEAD
+Now i am in lisa ann
+=======
+Now i am in las vegas
+>>>>>>> origin/f1
+
+hey ,hello
